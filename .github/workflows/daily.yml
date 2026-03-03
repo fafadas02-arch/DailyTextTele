@@ -2,7 +2,7 @@ name: Daily Telegram message
 
 on:
   schedule:
-  - cron: "08 11 * * *"
+  - cron: "09 11 * * *"
   workflow_dispatch:
 
 jobs:
