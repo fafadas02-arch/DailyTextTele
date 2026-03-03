@@ -1,4 +1,4 @@
-name: Daily Telegram message
+name: Daily Telegram message v2
 
 on:
   schedule:
